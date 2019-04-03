@@ -1,4 +1,6 @@
-# Drizzle & Kaleido
+![Drizzle & Kaleido](./box-img-sm.png "Logo Title Text 1")
+
+# Drizzle & Kaleido Truffle Box
 
 This box gives you a boilerplate to get up and running quickly with Drizzle & Truffle on a Kaleido chain.
 
