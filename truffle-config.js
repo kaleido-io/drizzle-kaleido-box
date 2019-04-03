@@ -8,8 +8,8 @@ module.exports = {
   networks: {
     development: {
       provider: () => {
-        const appCred = 'myAppCredential'; // from application credential widget
-        const connectionURL = 'myConnectionURL'; // without protocol (https://)
+        const appCred = 'yourappcred'; // from application credential widget
+        const connectionURL = 'nodeConnectionURL'; // without protocol (https://)
         return new Web3.providers.HttpProvider(`https://${appCred}@${connectionURL}`, 100000);
       },
       network_id: "*", // Match any network id
