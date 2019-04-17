@@ -1,4 +1,4 @@
-![Drizzle & Kaleido](./box-img-sm.png "Logo Title Text 1")
+![Drizzle & Kaleido](https://github.com/kaleido-io/drizzle-kaleido-box/blob/master/box-img-sm.png "Drizzle & Kaleido")
 
 # Drizzle & Kaleido Truffle Box
 
