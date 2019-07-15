@@ -17,5 +17,10 @@ module.exports = {
       gas: 4500000,
       /* type: 'quorum' // Use this property for Quorum environments */
     },
+  },
+  compilers: {
+    solc: {
+      version: "0.5.0",
+    }
   }
 };
